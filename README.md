@@ -1,1 +1,2 @@
 # wireframing
+##Types of Wireframes
